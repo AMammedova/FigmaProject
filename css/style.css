@@ -45,7 +45,7 @@
     height: 203px;
     left: 124px;
     top: 670px;
-    background: url("../img/photo\ 1.png");
+    background: url("../img/photo1.png");
 }
 .part1_head{
     position: absolute;
@@ -131,7 +131,7 @@
     height: 32px;
     left: 157px;
     top: 857px;
-    background: url("../img/Ellipse\ 3.png");
+    background: url("../img/ellips1.png");
 }
 .big_image{
     position: absolute;
@@ -148,7 +148,7 @@
     height: 59px;
     left: 950px;
     top: 511px;
-    background: url("../img/Ellipse\ 2.png");
+    background: url("../img/ellips2.png");
 }
 
 /*Tablet */
@@ -274,7 +274,7 @@
         height: 34.17px;
         left: 550.39px;
         top: 299.25px;
-        background: url("../img/Ellipse\ 2.png");
+        background: url("../img/ellips2.png");
         background-size: cover;
     }
     .bottom_image{
